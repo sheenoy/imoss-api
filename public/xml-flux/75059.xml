@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<adapt_xml>
+<annonce>
+<reference>750598</reference>
+<date_creation>20211125</date_creation>
+<date_maj>20211214 15:13:31.000</date_maj>
+<agence>IMOSS IMMOBILIER</agence>
+<agence_tel>01 42 59 31 71 </agence_tel>
+<agence_email>keyvan@imoss.fr</agence_email>
+<societe_raison_sociale>IMOSS IMMOBILIER</societe_raison_sociale>
+<societe_forme_juri>SAS</societe_forme_juri>
+<societe_siret>893 260 943 00020</societe_siret>
+<societe_capital>1000.00</societe_capital>
+<societe_tva_intra>FR22893260943</societe_tva_intra>
+<societe_adresse>99, rue Ordener</societe_adresse>
+<societe_code_postal>75018</societe_code_postal>
+<societe_ville>PARIS</societe_ville>
+<societe_carte_pro_num>CPI 7501 2021 000 000 249</societe_carte_pro_num>
+<societe_carte_pro_date>20210409</societe_carte_pro_date>
+<societe_carte_pro_pref>CCI de Paris Île-de-France  27 Av. de Friedland, 75008 Paris</societe_carte_pro_pref>
+<societe_directeur_publication>Keyvan MIRI</societe_directeur_publication>
+<societe_caisse_garantie>QBE EUROPE SA/NV  110 Esplanade DU GENERAL DE GAULLE COEUR DEFENSE - TOUR A 92931 PARIS LA DEFENSE CEDEX  0690 537 456  110 000€</societe_caisse_garantie>
+<societe_rcs>893 260 943 Paris B</societe_rcs>
+<nego_nom></nego_nom>
+<nego_tel>01 42 59 31 71 </nego_tel>
+<nego_email>keyvan@imoss.fr</nego_email>
+<nego_cp>75018</nego_cp>
+<nego_ville>PARIS 18EME ARRONDISSEMENT</nego_ville>
+<mandat>43</mandat>
+<type_mandat>simple</type_mandat>
+<operation>vente</operation>
+<viager>0</viager>
+<famille>appartement</famille>
+<type>Appartement</type>
+<idtype>2</idtype>
+<nom_residence></nom_residence>
+<adresse>rue Emile Zola </adresse>
+<code_postal>93400</code_postal>
+<ville>SAINT OUEN SUR SEINE</ville>
+<localisation>SAINT OUEN SUR SEINE</localisation>
+<numero_voie>4</numero_voie><pays>France</pays>
+<prix>430000</prix>
+<date_dispo></date_dispo>
+<date_echeance_preavis></date_echeance_preavis>
+<taxe_fonciere>900.000000</taxe_fonciere>
+<charges_mensuelles>200</charges_mensuelles>
+<prestige>0</prestige>
+<neuf>0</neuf>
+<surf_hab>61</surf_hab>
+<surf_sejour>0</surf_sejour>
+<surf_terrain>0</surf_terrain>
+<piece>3</piece>
+<nb_etage>0</nb_etage>
+<num_etage>0</num_etage>
+<nb_chambre>2</nb_chambre>
+<nb_sdb>0</nb_sdb>
+<nb_salle_deau>1</nb_salle_deau>
+<nb_wc>1</nb_wc>
+<chauffage>gaz</chauffage>
+<nature_chauffage>collectif</nature_chauffage>
+<balcon>non</balcon>
+<meuble>0</meuble>
+<ascenseur>0</ascenseur>
+<nb_garage>0</nb_garage>
+<terrasse>0</terrasse>
+<piscine>0</piscine>
+<bail_duree></bail_duree>
+<bail_date_fin></bail_date_fin>
+<annee_constr>1920</annee_constr>
+<nom_occupant></nom_occupant>
+<loyer_mensuel_occupant>0.00</loyer_mensuel_occupant>
+<telephone_occupant></telephone_occupant>
+<defisc>0</defisc>
+<visite_virtuelle></visite_virtuelle>
+<titre_fr>Spacieux T2 / T3 - SAINT OUEN SUR SEINE </titre_fr>
+<texte_fr>Vue dégagée sans vis à vis ! Situé à SAINT-OUEN-SUR-SEINE, à moins de 5 minutes du centre-ville, de la ligne 13 GARIBALDI et de la ligne 14 CLICHY/SAINT-OUEN, venez vite découvrir ce magnifique logement traversant.  Il est composé d&apos;une entrée, un vaste double séjour, une cuisine, une salle de bain, une chambre, un grand dressing et des WC séparés. Vous pouvez le transformer en vrai 3 pièces en ajoutant une cloison pour séparer le double séjour.  Si vous aimez les beaux immeubles des années 1900 en brique rouge et que vous voulez de la luminosité sans vis-à-vis, ce logement est fait pour vous !</texte_fr>
+<titre_uk></titre_uk>
+<texte_uk></texte_uk>
+<titre_nl></titre_nl>
+<texte_nl></texte_nl>
+<dpe_non_soumis>0</dpe_non_soumis>
+<dpe_consom_energ>248</dpe_consom_energ>
+<dpe_lettre_consom_energ>E</dpe_lettre_consom_energ>
+<dpe_emissions_ges>54</dpe_emissions_ges>
+<dpe_lettre_emissions_ges>E</dpe_lettre_emissions_ges>
+<dpe_etiquettes_vierges>0</dpe_etiquettes_vierges>
+<dpe_date>20211028</dpe_date>
+<dpe_depenses_annuelles_estimees_min>900.000000</dpe_depenses_annuelles_estimees_min>
+<dpe_depenses_annuelles_estimees_max>1260.000000</dpe_depenses_annuelles_estimees_max>
+<dpe_depenses_annuelles_estimees_annee>1948</dpe_depenses_annuelles_estimees_annee>
+<honoraire_frais_dossier>0</honoraire_frais_dossier>
+<honoraire_etat_lieux>0</honoraire_etat_lieux>
+<pourcentage_honoraire_acquereur>0</pourcentage_honoraire_acquereur>
+<copropriete>0</copropriete>
+<copropriete_nb_lots>0</copropriete_nb_lots>
+<copropriete_charges_annuelles>0.00</copropriete_charges_annuelles>
+<copropriete_procedure_syndicat>0</copropriete_procedure_syndicat>
+<honoraire_a_charge_de>1</honoraire_a_charge_de>
+<prix_hors_honoraire>0</prix_hors_honoraire>
+<url_bareme>https://assets.adaptimmo.com/bareme/75059/bareme.pdf</url_bareme>
+<liste_photos>
+<photo>https://photos.exportadapt.com/75059/750598_1.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/750598_2.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/750598_3.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/750598_4.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/750598_5.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/750598_6.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/750598_7.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/750598_8.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/750598_9.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/750598_10.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/750598_11.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/750598_12.jpg</photo>
+</liste_photos>
+</annonce>
+<annonce>
+<reference>75059193</reference>
+<date_creation>20211207</date_creation>
+<date_maj>20211211 11:36:14.000</date_maj>
+<agence>IMOSS IMMOBILIER</agence>
+<agence_tel>01 42 59 31 71 </agence_tel>
+<agence_email>keyvan@imoss.fr</agence_email>
+<societe_raison_sociale>IMOSS IMMOBILIER</societe_raison_sociale>
+<societe_forme_juri>SAS</societe_forme_juri>
+<societe_siret>893 260 943 00020</societe_siret>
+<societe_capital>1000.00</societe_capital>
+<societe_tva_intra>FR22893260943</societe_tva_intra>
+<societe_adresse>99, rue Ordener</societe_adresse>
+<societe_code_postal>75018</societe_code_postal>
+<societe_ville>PARIS</societe_ville>
+<societe_carte_pro_num>CPI 7501 2021 000 000 249</societe_carte_pro_num>
+<societe_carte_pro_date>20210409</societe_carte_pro_date>
+<societe_carte_pro_pref>CCI de Paris Île-de-France  27 Av. de Friedland, 75008 Paris</societe_carte_pro_pref>
+<societe_directeur_publication>Keyvan MIRI</societe_directeur_publication>
+<societe_caisse_garantie>QBE EUROPE SA/NV  110 Esplanade DU GENERAL DE GAULLE COEUR DEFENSE - TOUR A 92931 PARIS LA DEFENSE CEDEX  0690 537 456  110 000€</societe_caisse_garantie>
+<societe_rcs>893 260 943 Paris B</societe_rcs>
+<nego_nom></nego_nom>
+<nego_tel>01 42 59 31 71 </nego_tel>
+<nego_email>keyvan@imoss.fr</nego_email>
+<nego_cp>75018</nego_cp>
+<nego_ville>PARIS 18EME ARRONDISSEMENT</nego_ville>
+<mandat>38</mandat>
+<type_mandat>simple</type_mandat>
+<operation>vente</operation>
+<viager>0</viager>
+<famille>appartement</famille>
+<type>Appartement</type>
+<idtype>2</idtype>
+<nom_residence></nom_residence>
+<adresse>Quai Jemmapes </adresse>
+<code_postal>75010</code_postal>
+<ville>PARIS 10EME ARRONDISSEMENT</ville>
+<localisation>PARIS 10EME ARRONDISSEMENT</localisation>
+<numero_voie>56</numero_voie><pays>France</pays>
+<prix>863000</prix>
+<date_dispo></date_dispo>
+<date_echeance_preavis></date_echeance_preavis>
+<taxe_fonciere>970.000000</taxe_fonciere>
+<charges_mensuelles>390</charges_mensuelles>
+<prestige>0</prestige>
+<neuf>0</neuf>
+<surf_hab>77</surf_hab>
+<surf_sejour>0</surf_sejour>
+<surf_terrain>0</surf_terrain>
+<piece>3</piece>
+<nb_etage>1</nb_etage>
+<num_etage>12</num_etage>
+<nb_chambre>2</nb_chambre>
+<nb_sdb>0</nb_sdb>
+<nb_salle_deau>1</nb_salle_deau>
+<nb_wc>1</nb_wc>
+<chauffage>électrique</chauffage>
+<nature_chauffage></nature_chauffage>
+<balcon>non</balcon>
+<meuble>0</meuble>
+<ascenseur>0</ascenseur>
+<nb_garage>0</nb_garage>
+<terrasse>1</terrasse>
+<piscine>0</piscine>
+<bail_duree></bail_duree>
+<bail_date_fin></bail_date_fin>
+<annee_constr>1960</annee_constr>
+<nom_occupant></nom_occupant>
+<loyer_mensuel_occupant>0.00</loyer_mensuel_occupant>
+<telephone_occupant></telephone_occupant>
+<defisc>0</defisc>
+<visite_virtuelle></visite_virtuelle>
+<titre_fr></titre_fr>
+<texte_fr>Vue EXCEPTIONNELLE sur le Canal Saint-Martin !     Venez vite découvrir ce grand F3 dans une belle copropriété bien entretenue, il est composé de : une entrée, un grand double séjour exposé Sud-Ouest avec une vue totalement dégagée, une cuisine ouverte équipée et aménagée,  un balcon avec une magnifique vue sur le Canal, deux belles chambres dont une avec un grand dressing, une grande salle d&apos;eau avec double vasque, des WC séparés et des rangements. Les chambres sont côté jardin, au calme et exposé plein Est. Une cave complète ce bien.</texte_fr>
+<titre_uk></titre_uk>
+<texte_uk></texte_uk>
+<titre_nl></titre_nl>
+<texte_nl></texte_nl>
+<dpe_non_soumis>0</dpe_non_soumis>
+<dpe_consom_energ>0</dpe_consom_energ>
+<dpe_lettre_consom_energ></dpe_lettre_consom_energ>
+<dpe_emissions_ges>0</dpe_emissions_ges>
+<dpe_lettre_emissions_ges></dpe_lettre_emissions_ges>
+<dpe_etiquettes_vierges>0</dpe_etiquettes_vierges>
+<dpe_date></dpe_date>
+<dpe_depenses_annuelles_estimees_min>0.000000</dpe_depenses_annuelles_estimees_min>
+<dpe_depenses_annuelles_estimees_max>0.000000</dpe_depenses_annuelles_estimees_max>
+<dpe_depenses_annuelles_estimees_annee>0</dpe_depenses_annuelles_estimees_annee>
+<honoraire_frais_dossier>0</honoraire_frais_dossier>
+<honoraire_etat_lieux>0</honoraire_etat_lieux>
+<pourcentage_honoraire_acquereur>3.97</pourcentage_honoraire_acquereur>
+<copropriete>0</copropriete>
+<copropriete_nb_lots>0</copropriete_nb_lots>
+<copropriete_charges_annuelles>0.00</copropriete_charges_annuelles>
+<copropriete_procedure_syndicat>0</copropriete_procedure_syndicat>
+<honoraire_a_charge_de>2</honoraire_a_charge_de>
+<prix_hors_honoraire>830000.00</prix_hors_honoraire>
+<url_bareme>https://assets.adaptimmo.com/bareme/75059/bareme.pdf</url_bareme>
+<liste_photos>
+<photo>https://photos.exportadapt.com/75059/75059193_1.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059193_2.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059193_3.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059193_4.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059193_5.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059193_6.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059193_7.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059193_8.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059193_9.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059193_10.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059193_11.jpg</photo>
+</liste_photos>
+</annonce>
+<annonce>
+<reference>75059194</reference>
+<date_creation>20211207</date_creation>
+<date_maj>20211211 11:37:09.000</date_maj>
+<agence>IMOSS IMMOBILIER</agence>
+<agence_tel>01 42 59 31 71 </agence_tel>
+<agence_email>keyvan@imoss.fr</agence_email>
+<societe_raison_sociale>IMOSS IMMOBILIER</societe_raison_sociale>
+<societe_forme_juri>SAS</societe_forme_juri>
+<societe_siret>893 260 943 00020</societe_siret>
+<societe_capital>1000.00</societe_capital>
+<societe_tva_intra>FR22893260943</societe_tva_intra>
+<societe_adresse>99, rue Ordener</societe_adresse>
+<societe_code_postal>75018</societe_code_postal>
+<societe_ville>PARIS</societe_ville>
+<societe_carte_pro_num>CPI 7501 2021 000 000 249</societe_carte_pro_num>
+<societe_carte_pro_date>20210409</societe_carte_pro_date>
+<societe_carte_pro_pref>CCI de Paris Île-de-France  27 Av. de Friedland, 75008 Paris</societe_carte_pro_pref>
+<societe_directeur_publication>Keyvan MIRI</societe_directeur_publication>
+<societe_caisse_garantie>QBE EUROPE SA/NV  110 Esplanade DU GENERAL DE GAULLE COEUR DEFENSE - TOUR A 92931 PARIS LA DEFENSE CEDEX  0690 537 456  110 000€</societe_caisse_garantie>
+<societe_rcs>893 260 943 Paris B</societe_rcs>
+<nego_nom></nego_nom>
+<nego_tel>01 42 59 31 71 </nego_tel>
+<nego_email>keyvan@imoss.fr</nego_email>
+<nego_cp>75018</nego_cp>
+<nego_ville>PARIS 18EME ARRONDISSEMENT</nego_ville>
+<mandat>27</mandat>
+<type_mandat>simple</type_mandat>
+<operation>vente</operation>
+<viager>0</viager>
+<famille>appartement</famille>
+<type>Appartement</type>
+<idtype>2</idtype>
+<nom_residence></nom_residence>
+<adresse>boulevard Anatole France </adresse>
+<code_postal>93200</code_postal>
+<ville>SAINT DENIS</ville>
+<localisation>SAINT DENIS</localisation>
+<numero_voie>236</numero_voie><pays>France</pays>
+<prix>520000</prix>
+<date_dispo></date_dispo>
+<date_echeance_preavis></date_echeance_preavis>
+<taxe_fonciere>0.000000</taxe_fonciere>
+<charges_mensuelles>0</charges_mensuelles>
+<prestige>0</prestige>
+<neuf>0</neuf>
+<surf_hab>88</surf_hab>
+<surf_sejour>0</surf_sejour>
+<surf_terrain>0</surf_terrain>
+<piece>4</piece>
+<nb_etage>10</nb_etage>
+<num_etage>12</num_etage>
+<nb_chambre>3</nb_chambre>
+<nb_sdb>0</nb_sdb>
+<nb_salle_deau>1</nb_salle_deau>
+<nb_wc>1</nb_wc>
+<chauffage>gaz</chauffage>
+<nature_chauffage></nature_chauffage>
+<balcon>oui</balcon>
+<meuble>0</meuble>
+<ascenseur>0</ascenseur>
+<nb_garage>0</nb_garage>
+<terrasse>0</terrasse>
+<piscine>0</piscine>
+<bail_duree></bail_duree>
+<bail_date_fin></bail_date_fin>
+<annee_constr>1970</annee_constr>
+<nom_occupant></nom_occupant>
+<loyer_mensuel_occupant>0.00</loyer_mensuel_occupant>
+<telephone_occupant></telephone_occupant>
+<defisc>0</defisc>
+<visite_virtuelle></visite_virtuelle>
+<titre_fr></titre_fr>
+<texte_fr>Situé à 10min du métro Mairie de Saint-Ouen (ligne 13 et 14) dans le quartier PLEYEL à Saint-Denis, cet appartement se trouve au 9ème étage d&apos;une copropriété très bien entretenue.  Il dispose d&apos;une entrée, une cuisine séparée équipée et aménagée, un très grand triple salon de 38m² exposé plein Ouest sans vis à vis, un long balcon, deux belles chambres dont une avec balcon et une jolie vue sur le Sacré Cœur + la Tour Eiffel, une salle d&apos;eau avec douche à l&apos;italienne, des WC séparés et grande cave au sous-sol.  Vous avez la possibilité de créer une troisième chambre et garder une grande pièce de vie (28m²).  La copropriété possède un gardien, un square privé et se situe à proximité de la future Gare Pleyel Grand Paris Express (ligne 14, 15, 16 et 17).  Si vous aimez avoir de l&apos;espace, du soleil et habiter dans une copropriété où tous les voisins s&apos;entendent bien, ce logement est fait pour vous !    Vous avez également la possibilité d&apos;acheter un grand box en sus du prix de 30 000€.</texte_fr>
+<titre_uk></titre_uk>
+<texte_uk></texte_uk>
+<titre_nl></titre_nl>
+<texte_nl></texte_nl>
+<dpe_non_soumis>0</dpe_non_soumis>
+<dpe_consom_energ>0</dpe_consom_energ>
+<dpe_lettre_consom_energ></dpe_lettre_consom_energ>
+<dpe_emissions_ges>0</dpe_emissions_ges>
+<dpe_lettre_emissions_ges></dpe_lettre_emissions_ges>
+<dpe_etiquettes_vierges>0</dpe_etiquettes_vierges>
+<dpe_date></dpe_date>
+<dpe_depenses_annuelles_estimees_min>0.000000</dpe_depenses_annuelles_estimees_min>
+<dpe_depenses_annuelles_estimees_max>0.000000</dpe_depenses_annuelles_estimees_max>
+<dpe_depenses_annuelles_estimees_annee>0</dpe_depenses_annuelles_estimees_annee>
+<honoraire_frais_dossier>0</honoraire_frais_dossier>
+<honoraire_etat_lieux>0</honoraire_etat_lieux>
+<pourcentage_honoraire_acquereur>0</pourcentage_honoraire_acquereur>
+<copropriete>0</copropriete>
+<copropriete_nb_lots>0</copropriete_nb_lots>
+<copropriete_charges_annuelles>0.00</copropriete_charges_annuelles>
+<copropriete_procedure_syndicat>0</copropriete_procedure_syndicat>
+<honoraire_a_charge_de>1</honoraire_a_charge_de>
+<prix_hors_honoraire>0</prix_hors_honoraire>
+<url_bareme>https://assets.adaptimmo.com/bareme/75059/bareme.pdf</url_bareme>
+<liste_photos>
+<photo>https://photos.exportadapt.com/75059/75059194_16.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_17.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_18.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_19.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_20.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_21.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_22.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_23.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_24.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_25.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_26.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_27.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_28.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059194_29.jpg</photo>
+</liste_photos>
+</annonce>
+<annonce>
+<reference>75059195</reference>
+<date_creation>20211207</date_creation>
+<date_maj>20211211 11:37:30.000</date_maj>
+<agence>IMOSS IMMOBILIER</agence>
+<agence_tel>01 42 59 31 71 </agence_tel>
+<agence_email>keyvan@imoss.fr</agence_email>
+<societe_raison_sociale>IMOSS IMMOBILIER</societe_raison_sociale>
+<societe_forme_juri>SAS</societe_forme_juri>
+<societe_siret>893 260 943 00020</societe_siret>
+<societe_capital>1000.00</societe_capital>
+<societe_tva_intra>FR22893260943</societe_tva_intra>
+<societe_adresse>99, rue Ordener</societe_adresse>
+<societe_code_postal>75018</societe_code_postal>
+<societe_ville>PARIS</societe_ville>
+<societe_carte_pro_num>CPI 7501 2021 000 000 249</societe_carte_pro_num>
+<societe_carte_pro_date>20210409</societe_carte_pro_date>
+<societe_carte_pro_pref>CCI de Paris Île-de-France  27 Av. de Friedland, 75008 Paris</societe_carte_pro_pref>
+<societe_directeur_publication>Keyvan MIRI</societe_directeur_publication>
+<societe_caisse_garantie>QBE EUROPE SA/NV  110 Esplanade DU GENERAL DE GAULLE COEUR DEFENSE - TOUR A 92931 PARIS LA DEFENSE CEDEX  0690 537 456  110 000€</societe_caisse_garantie>
+<societe_rcs>893 260 943 Paris B</societe_rcs>
+<nego_nom></nego_nom>
+<nego_tel>01 42 59 31 71 </nego_tel>
+<nego_email>keyvan@imoss.fr</nego_email>
+<nego_cp>75018</nego_cp>
+<nego_ville>PARIS 18EME ARRONDISSEMENT</nego_ville>
+<mandat>7</mandat>
+<type_mandat>privilège</type_mandat>
+<operation>vente</operation>
+<viager>0</viager>
+<famille>appartement</famille>
+<type>Appartement</type>
+<idtype>2</idtype>
+<nom_residence></nom_residence>
+<adresse>rue Anselme </adresse>
+<code_postal>93400</code_postal>
+<ville>SAINT OUEN SUR SEINE</ville>
+<localisation>SAINT OUEN SUR SEINE</localisation>
+<numero_voie>29</numero_voie><pays>France</pays>
+<prix>350000</prix>
+<date_dispo></date_dispo>
+<date_echeance_preavis></date_echeance_preavis>
+<taxe_fonciere>0.000000</taxe_fonciere>
+<charges_mensuelles>127</charges_mensuelles>
+<prestige>0</prestige>
+<neuf>0</neuf>
+<surf_hab>57</surf_hab>
+<surf_sejour>0</surf_sejour>
+<surf_terrain>0</surf_terrain>
+<piece>3</piece>
+<nb_etage>2</nb_etage>
+<num_etage>3</num_etage>
+<nb_chambre>2</nb_chambre>
+<nb_sdb>0</nb_sdb>
+<nb_salle_deau>1</nb_salle_deau>
+<nb_wc>1</nb_wc>
+<chauffage>gaz</chauffage>
+<nature_chauffage></nature_chauffage>
+<balcon>non</balcon>
+<meuble>0</meuble>
+<ascenseur>0</ascenseur>
+<nb_garage>0</nb_garage>
+<terrasse>0</terrasse>
+<piscine>0</piscine>
+<bail_duree></bail_duree>
+<bail_date_fin></bail_date_fin>
+<annee_constr>1930</annee_constr>
+<nom_occupant></nom_occupant>
+<loyer_mensuel_occupant>0.00</loyer_mensuel_occupant>
+<telephone_occupant></telephone_occupant>
+<defisc>0</defisc>
+<visite_virtuelle></visite_virtuelle>
+<titre_fr></titre_fr>
+<texte_fr>Baigné de soleil ! Situé dans le quartier de la Mairie Saint-Ouen à 3 minutes à pieds de la ligne 13/14, venez vite découvrir ce magnifique F2 transformable en F3.    Dans l&apos;état, ce logement dispose d&apos;une entrée, un immense double séjour de 31m² exposé plein Sud-Ouest, une chambre, une cuisine équipée, une salle d&apos;eau avec WC et une cave au sous-sol. Possibilité d&apos;en faire un vrai F3 avec deux chambres.    La proximité des commerces rend ce logement parfait. Que demander de plus ? Une visite bien évidemment.    EN EXCLUSIVITÉ CHEZ IMOSS IMMOBILIER !</texte_fr>
+<titre_uk></titre_uk>
+<texte_uk></texte_uk>
+<titre_nl></titre_nl>
+<texte_nl></texte_nl>
+<dpe_non_soumis>0</dpe_non_soumis>
+<dpe_consom_energ>0</dpe_consom_energ>
+<dpe_lettre_consom_energ></dpe_lettre_consom_energ>
+<dpe_emissions_ges>0</dpe_emissions_ges>
+<dpe_lettre_emissions_ges></dpe_lettre_emissions_ges>
+<dpe_etiquettes_vierges>0</dpe_etiquettes_vierges>
+<dpe_date>20210602</dpe_date>
+<dpe_depenses_annuelles_estimees_min>0.000000</dpe_depenses_annuelles_estimees_min>
+<dpe_depenses_annuelles_estimees_max>0.000000</dpe_depenses_annuelles_estimees_max>
+<dpe_depenses_annuelles_estimees_annee>0</dpe_depenses_annuelles_estimees_annee>
+<honoraire_frais_dossier>0</honoraire_frais_dossier>
+<honoraire_etat_lieux>0</honoraire_etat_lieux>
+<pourcentage_honoraire_acquereur>0</pourcentage_honoraire_acquereur>
+<copropriete>0</copropriete>
+<copropriete_nb_lots>0</copropriete_nb_lots>
+<copropriete_charges_annuelles>0.00</copropriete_charges_annuelles>
+<copropriete_procedure_syndicat>0</copropriete_procedure_syndicat>
+<honoraire_a_charge_de>1</honoraire_a_charge_de>
+<prix_hors_honoraire>0</prix_hors_honoraire>
+<url_bareme>https://assets.adaptimmo.com/bareme/75059/bareme.pdf</url_bareme>
+<liste_photos>
+<photo>https://photos.exportadapt.com/75059/75059195_1.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059195_2.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059195_3.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059195_4.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059195_5.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059195_6.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059195_7.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059195_8.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059195_9.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059195_10.jpg</photo>
+</liste_photos>
+</annonce>
+<annonce>
+<reference>75059197</reference>
+<date_creation>20211207</date_creation>
+<date_maj>20211207 18:02:11.000</date_maj>
+<agence>IMOSS IMMOBILIER</agence>
+<agence_tel>01 42 59 31 71 </agence_tel>
+<agence_email>keyvan@imoss.fr</agence_email>
+<societe_raison_sociale>IMOSS IMMOBILIER</societe_raison_sociale>
+<societe_forme_juri>SAS</societe_forme_juri>
+<societe_siret>893 260 943 00020</societe_siret>
+<societe_capital>1000.00</societe_capital>
+<societe_tva_intra>FR22893260943</societe_tva_intra>
+<societe_adresse>99, rue Ordener</societe_adresse>
+<societe_code_postal>75018</societe_code_postal>
+<societe_ville>PARIS</societe_ville>
+<societe_carte_pro_num>CPI 7501 2021 000 000 249</societe_carte_pro_num>
+<societe_carte_pro_date>20210409</societe_carte_pro_date>
+<societe_carte_pro_pref>CCI de Paris Île-de-France  27 Av. de Friedland, 75008 Paris</societe_carte_pro_pref>
+<societe_directeur_publication>Keyvan MIRI</societe_directeur_publication>
+<societe_caisse_garantie>QBE EUROPE SA/NV  110 Esplanade DU GENERAL DE GAULLE COEUR DEFENSE - TOUR A 92931 PARIS LA DEFENSE CEDEX  0690 537 456  110 000€</societe_caisse_garantie>
+<societe_rcs>893 260 943 Paris B</societe_rcs>
+<nego_nom></nego_nom>
+<nego_tel>01 42 59 31 71 </nego_tel>
+<nego_email>keyvan@imoss.fr</nego_email>
+<nego_cp>75018</nego_cp>
+<nego_ville>PARIS 18EME ARRONDISSEMENT</nego_ville>
+<mandat>33</mandat>
+<type_mandat>privilège</type_mandat>
+<operation>vente</operation>
+<viager>0</viager>
+<famille>maison</famille>
+<type>Maison</type>
+<idtype>1</idtype>
+<nom_residence></nom_residence>
+<adresse>Villa des Charmes </adresse>
+<code_postal>95500</code_postal>
+<ville>GONESSE</ville>
+<localisation>GONESSE</localisation>
+<numero_voie>8</numero_voie><pays>France</pays>
+<prix>368500</prix>
+<date_dispo></date_dispo>
+<date_echeance_preavis></date_echeance_preavis>
+<taxe_fonciere>0.000000</taxe_fonciere>
+<charges_mensuelles>0</charges_mensuelles>
+<prestige>0</prestige>
+<neuf>0</neuf>
+<surf_hab>120.5</surf_hab>
+<surf_sejour>0</surf_sejour>
+<surf_terrain>300</surf_terrain>
+<piece>6</piece>
+<nb_etage>3</nb_etage>
+<num_etage>0</num_etage>
+<nb_chambre>5</nb_chambre>
+<nb_sdb>1</nb_sdb>
+<nb_salle_deau>1</nb_salle_deau>
+<nb_wc>2</nb_wc>
+<chauffage>gaz</chauffage>
+<nature_chauffage></nature_chauffage>
+<balcon>non</balcon>
+<meuble>0</meuble>
+<ascenseur>0</ascenseur>
+<nb_garage>0</nb_garage>
+<terrasse>1</terrasse>
+<piscine>0</piscine>
+<bail_duree></bail_duree>
+<bail_date_fin></bail_date_fin>
+<annee_constr></annee_constr>
+<nom_occupant></nom_occupant>
+<loyer_mensuel_occupant>0.00</loyer_mensuel_occupant>
+<telephone_occupant></telephone_occupant>
+<defisc>0</defisc>
+<visite_virtuelle></visite_virtuelle>
+<titre_fr></titre_fr>
+<texte_fr>Située dans le quartier de la grande vallée Nord proche de toutes comodités, venez découvrir cette maison lumineuse de 120m² disposée sur 3 niveaux. On y retrouve au rez de chaussée : un grand séjour, une cuisine, une veranda , un garage et les W.C. Au 1er étage : 4 belles chambres, une salle d&apos;eau avec W.C et des rangements dans le couloir. Au dernier étage, dans les combles aménagés, une salle de jeux qui peut être transformée en une grande chambre. Sur un terrain spacieux de 300m², vous pourrez pleinement profiter du jardin de 200m². Alors n&apos;attendez plus pour venir découvrir cette maison.     EN EXCLUSIVITÉ CHEZ IMOSS IMMOBILIER !</texte_fr>
+<titre_uk></titre_uk>
+<texte_uk></texte_uk>
+<titre_nl></titre_nl>
+<texte_nl></texte_nl>
+<dpe_non_soumis>0</dpe_non_soumis>
+<dpe_consom_energ>0</dpe_consom_energ>
+<dpe_lettre_consom_energ></dpe_lettre_consom_energ>
+<dpe_emissions_ges>0</dpe_emissions_ges>
+<dpe_lettre_emissions_ges></dpe_lettre_emissions_ges>
+<dpe_etiquettes_vierges>0</dpe_etiquettes_vierges>
+<dpe_date></dpe_date>
+<dpe_depenses_annuelles_estimees_min>0.000000</dpe_depenses_annuelles_estimees_min>
+<dpe_depenses_annuelles_estimees_max>0.000000</dpe_depenses_annuelles_estimees_max>
+<dpe_depenses_annuelles_estimees_annee>0</dpe_depenses_annuelles_estimees_annee>
+<honoraire_frais_dossier>0</honoraire_frais_dossier>
+<honoraire_etat_lieux>0</honoraire_etat_lieux>
+<pourcentage_honoraire_acquereur>0</pourcentage_honoraire_acquereur>
+<copropriete>0</copropriete>
+<copropriete_nb_lots>0</copropriete_nb_lots>
+<copropriete_charges_annuelles>0.00</copropriete_charges_annuelles>
+<copropriete_procedure_syndicat>0</copropriete_procedure_syndicat>
+<honoraire_a_charge_de>1</honoraire_a_charge_de>
+<prix_hors_honoraire>0</prix_hors_honoraire>
+<url_bareme>https://assets.adaptimmo.com/bareme/75059/bareme.pdf</url_bareme>
+<liste_photos>
+<photo>https://photos.exportadapt.com/75059/75059197_1.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_2.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_3.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_4.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_5.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_6.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_7.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_8.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_9.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_10.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_11.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_12.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_13.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_14.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059197_15.jpg</photo>
+</liste_photos>
+</annonce>
+<annonce>
+<reference>75059198</reference>
+<date_creation>20211207</date_creation>
+<date_maj>20211207 18:01:39.000</date_maj>
+<agence>IMOSS IMMOBILIER</agence>
+<agence_tel>01 42 59 31 71 </agence_tel>
+<agence_email>keyvan@imoss.fr</agence_email>
+<societe_raison_sociale>IMOSS IMMOBILIER</societe_raison_sociale>
+<societe_forme_juri>SAS</societe_forme_juri>
+<societe_siret>893 260 943 00020</societe_siret>
+<societe_capital>1000.00</societe_capital>
+<societe_tva_intra>FR22893260943</societe_tva_intra>
+<societe_adresse>99, rue Ordener</societe_adresse>
+<societe_code_postal>75018</societe_code_postal>
+<societe_ville>PARIS</societe_ville>
+<societe_carte_pro_num>CPI 7501 2021 000 000 249</societe_carte_pro_num>
+<societe_carte_pro_date>20210409</societe_carte_pro_date>
+<societe_carte_pro_pref>CCI de Paris Île-de-France  27 Av. de Friedland, 75008 Paris</societe_carte_pro_pref>
+<societe_directeur_publication>Keyvan MIRI</societe_directeur_publication>
+<societe_caisse_garantie>QBE EUROPE SA/NV  110 Esplanade DU GENERAL DE GAULLE COEUR DEFENSE - TOUR A 92931 PARIS LA DEFENSE CEDEX  0690 537 456  110 000€</societe_caisse_garantie>
+<societe_rcs>893 260 943 Paris B</societe_rcs>
+<nego_nom></nego_nom>
+<nego_tel>01 42 59 31 71 </nego_tel>
+<nego_email>keyvan@imoss.fr</nego_email>
+<nego_cp>75018</nego_cp>
+<nego_ville>PARIS 18EME ARRONDISSEMENT</nego_ville>
+<mandat>02</mandat>
+<type_mandat>privilège</type_mandat>
+<operation>vente</operation>
+<viager>0</viager>
+<famille>appartement</famille>
+<type>Appartement</type>
+<idtype>2</idtype>
+<nom_residence></nom_residence>
+<adresse>rue des Archives </adresse>
+<code_postal>75003</code_postal>
+<ville>PARIS 3EME ARRONDISSEMENT</ville>
+<localisation>PARIS 3EME ARRONDISSEMENT</localisation>
+<numero_voie>82</numero_voie><pays>France</pays>
+<prix>1155000</prix>
+<date_dispo></date_dispo>
+<date_echeance_preavis></date_echeance_preavis>
+<taxe_fonciere>0.000000</taxe_fonciere>
+<charges_mensuelles>0</charges_mensuelles>
+<prestige>0</prestige>
+<neuf>0</neuf>
+<surf_hab>78</surf_hab>
+<surf_sejour>0</surf_sejour>
+<surf_terrain>0</surf_terrain>
+<piece>3</piece>
+<nb_etage>3</nb_etage>
+<num_etage>4</num_etage>
+<nb_chambre>2</nb_chambre>
+<nb_sdb>0</nb_sdb>
+<nb_salle_deau>1</nb_salle_deau>
+<nb_wc>1</nb_wc>
+<chauffage>électrique</chauffage>
+<nature_chauffage></nature_chauffage>
+<balcon>non</balcon>
+<meuble>0</meuble>
+<ascenseur>0</ascenseur>
+<nb_garage>0</nb_garage>
+<terrasse>0</terrasse>
+<piscine>0</piscine>
+<bail_duree></bail_duree>
+<bail_date_fin></bail_date_fin>
+<annee_constr></annee_constr>
+<nom_occupant></nom_occupant>
+<loyer_mensuel_occupant>0.00</loyer_mensuel_occupant>
+<telephone_occupant></telephone_occupant>
+<defisc>0</defisc>
+<visite_virtuelle></visite_virtuelle>
+<titre_fr></titre_fr>
+<texte_fr>Exceptionnellement bien placé, au cœur des commerces, dans la rue des Archives, au 3ème étage, venez vite découvrir ce magnifique F3/F4 de 78m² sur cour au calme. Celui-ci comprends : une entrée, un séjour, une cuisine ouverte équipée et aménagée, une salle à manger, deux chambres, un dressing, une salle d&apos;eau avec douche à l&apos;italienne, des WC séparés et une cave au sous-sol. Le tout dans une très belle copropriété bien entretenue !   EN EXCLUSIVITÉ CHEZ IMOSS IMMOBILIER</texte_fr>
+<titre_uk></titre_uk>
+<texte_uk></texte_uk>
+<titre_nl></titre_nl>
+<texte_nl></texte_nl>
+<dpe_non_soumis>0</dpe_non_soumis>
+<dpe_consom_energ>184</dpe_consom_energ>
+<dpe_lettre_consom_energ>D</dpe_lettre_consom_energ>
+<dpe_emissions_ges>26</dpe_emissions_ges>
+<dpe_lettre_emissions_ges>D</dpe_lettre_emissions_ges>
+<dpe_etiquettes_vierges>0</dpe_etiquettes_vierges>
+<dpe_date>20210521</dpe_date>
+<dpe_depenses_annuelles_estimees_min>0.000000</dpe_depenses_annuelles_estimees_min>
+<dpe_depenses_annuelles_estimees_max>0.000000</dpe_depenses_annuelles_estimees_max>
+<dpe_depenses_annuelles_estimees_annee>0</dpe_depenses_annuelles_estimees_annee>
+<honoraire_frais_dossier>0</honoraire_frais_dossier>
+<honoraire_etat_lieux>0</honoraire_etat_lieux>
+<pourcentage_honoraire_acquereur>3.58</pourcentage_honoraire_acquereur>
+<copropriete>0</copropriete>
+<copropriete_nb_lots>0</copropriete_nb_lots>
+<copropriete_charges_annuelles>0.00</copropriete_charges_annuelles>
+<copropriete_procedure_syndicat>0</copropriete_procedure_syndicat>
+<honoraire_a_charge_de>2</honoraire_a_charge_de>
+<prix_hors_honoraire>1115000.00</prix_hors_honoraire>
+<url_bareme>https://assets.adaptimmo.com/bareme/75059/bareme.pdf</url_bareme>
+<liste_photos>
+<photo>https://photos.exportadapt.com/75059/75059198_2.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059198_3.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059198_4.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059198_5.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059198_6.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059198_7.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059198_8.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059198_9.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059198_10.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059198_11.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059198_12.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059198_13.jpg</photo>
+</liste_photos>
+</annonce>
+<annonce>
+<reference>75059199</reference>
+<date_creation>20211207</date_creation>
+<date_maj>20211214 12:54:10.000</date_maj>
+<agence>IMOSS IMMOBILIER</agence>
+<agence_tel>01 42 59 31 71 </agence_tel>
+<agence_email>keyvan@imoss.fr</agence_email>
+<societe_raison_sociale>IMOSS IMMOBILIER</societe_raison_sociale>
+<societe_forme_juri>SAS</societe_forme_juri>
+<societe_siret>893 260 943 00020</societe_siret>
+<societe_capital>1000.00</societe_capital>
+<societe_tva_intra>FR22893260943</societe_tva_intra>
+<societe_adresse>99, rue Ordener</societe_adresse>
+<societe_code_postal>75018</societe_code_postal>
+<societe_ville>PARIS</societe_ville>
+<societe_carte_pro_num>CPI 7501 2021 000 000 249</societe_carte_pro_num>
+<societe_carte_pro_date>20210409</societe_carte_pro_date>
+<societe_carte_pro_pref>CCI de Paris Île-de-France  27 Av. de Friedland, 75008 Paris</societe_carte_pro_pref>
+<societe_directeur_publication>Keyvan MIRI</societe_directeur_publication>
+<societe_caisse_garantie>QBE EUROPE SA/NV  110 Esplanade DU GENERAL DE GAULLE COEUR DEFENSE - TOUR A 92931 PARIS LA DEFENSE CEDEX  0690 537 456  110 000€</societe_caisse_garantie>
+<societe_rcs>893 260 943 Paris B</societe_rcs>
+<nego_nom></nego_nom>
+<nego_tel>01 42 59 31 71 </nego_tel>
+<nego_email>keyvan@imoss.fr</nego_email>
+<nego_cp>75018</nego_cp>
+<nego_ville>PARIS 18EME ARRONDISSEMENT</nego_ville>
+<mandat>20</mandat>
+<type_mandat>privilège</type_mandat>
+<operation>vente</operation>
+<viager>0</viager>
+<famille>appartement</famille>
+<type>Appartement</type>
+<idtype>2</idtype>
+<nom_residence></nom_residence>
+<adresse>rue Eva Kotchever </adresse>
+<code_postal>75018</code_postal>
+<ville>PARIS 18EME ARRONDISSEMENT</ville>
+<localisation>PARIS 18EME ARRONDISSEMENT</localisation>
+<numero_voie>7</numero_voie><pays>France</pays>
+<prix>570000</prix>
+<date_dispo></date_dispo>
+<date_echeance_preavis></date_echeance_preavis>
+<taxe_fonciere>760.000000</taxe_fonciere>
+<charges_mensuelles>200</charges_mensuelles>
+<prestige>0</prestige>
+<neuf>0</neuf>
+<surf_hab>62</surf_hab>
+<surf_sejour>0</surf_sejour>
+<surf_terrain>0</surf_terrain>
+<piece>3</piece>
+<nb_etage>10</nb_etage>
+<num_etage>2</num_etage>
+<nb_chambre>2</nb_chambre>
+<nb_sdb>0</nb_sdb>
+<nb_salle_deau>1</nb_salle_deau>
+<nb_wc>1</nb_wc>
+<chauffage>gaz</chauffage>
+<nature_chauffage></nature_chauffage>
+<balcon>non</balcon>
+<meuble>0</meuble>
+<ascenseur>1</ascenseur>
+<nb_garage>0</nb_garage>
+<terrasse>1</terrasse>
+<piscine>0</piscine>
+<bail_duree></bail_duree>
+<bail_date_fin></bail_date_fin>
+<annee_constr>2020</annee_constr>
+<nom_occupant></nom_occupant>
+<loyer_mensuel_occupant>0.00</loyer_mensuel_occupant>
+<telephone_occupant></telephone_occupant>
+<defisc>0</defisc>
+<visite_virtuelle></visite_virtuelle>
+<titre_fr></titre_fr>
+<texte_fr>Un logement EXCEPTIONNEL ! C&apos;est comme cela que nous définissons ce bien.. alors lisez attentivement ce qui va suivre.  À 2 minutes à pied du métro Porte de la Chapelle, ce logement est situé dans un bel immeuble qui a moins d&apos;un an. Il se compose de la manière suivante : une entrée, un double séjour avec une salle à manger, une cuisine très design avec une qualité supérieure, deux chambres, une grande salle d&apos;eau avec une douche à l&apos;italienne, des WC séparés et enfin.. une magnifique terrasse végétalisé de 26m² avec une vue totalement dégagée sur le Sacré Cœur.  Le moindre mètre carré est optimisé avec des rangements et des meubles uniquement fait sur mesure.  Que demander de plus ? Une place de parking en sous-sol ? Ca tombe bien, vous avez la possibilité d&apos;en acheter une en sus du prix à 25 500€.    Si vous cherchez un appartement avec des prestations haut de gamme, alors ce logement est fait pour vous !  EN EXCLUSIVITÉ CHEZ IMOSS IMMOBILIER</texte_fr>
+<titre_uk></titre_uk>
+<texte_uk></texte_uk>
+<titre_nl></titre_nl>
+<texte_nl></texte_nl>
+<dpe_non_soumis>0</dpe_non_soumis>
+<dpe_consom_energ>66</dpe_consom_energ>
+<dpe_lettre_consom_energ>B</dpe_lettre_consom_energ>
+<dpe_emissions_ges>9</dpe_emissions_ges>
+<dpe_lettre_emissions_ges>B</dpe_lettre_emissions_ges>
+<dpe_etiquettes_vierges>0</dpe_etiquettes_vierges>
+<dpe_date>20210925</dpe_date>
+<dpe_depenses_annuelles_estimees_min>350.000000</dpe_depenses_annuelles_estimees_min>
+<dpe_depenses_annuelles_estimees_max>360.000000</dpe_depenses_annuelles_estimees_max>
+<dpe_depenses_annuelles_estimees_annee>2021</dpe_depenses_annuelles_estimees_annee>
+<honoraire_frais_dossier>0</honoraire_frais_dossier>
+<honoraire_etat_lieux>0</honoraire_etat_lieux>
+<pourcentage_honoraire_acquereur>0</pourcentage_honoraire_acquereur>
+<copropriete>0</copropriete>
+<copropriete_nb_lots>0</copropriete_nb_lots>
+<copropriete_charges_annuelles>0.00</copropriete_charges_annuelles>
+<copropriete_procedure_syndicat>0</copropriete_procedure_syndicat>
+<honoraire_a_charge_de>1</honoraire_a_charge_de>
+<prix_hors_honoraire>0</prix_hors_honoraire>
+<url_bareme>https://assets.adaptimmo.com/bareme/75059/bareme.pdf</url_bareme>
+<liste_photos>
+<photo>https://photos.exportadapt.com/75059/75059199_20.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_17.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_18.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_19.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_21.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_22.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_23.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_24.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_25.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_26.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_27.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_28.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_29.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_30.jpg</photo>
+<photo>https://photos.exportadapt.com/75059/75059199_31.jpg</photo>
+</liste_photos>
+</annonce>
+<annonce>
+<reference>75059202</reference>
+<date_creation>20211207</date_creation>
+<date_maj>20211211 11:37:46.000</date_maj>
+<agence>IMOSS IMMOBILIER</agence>
+<agence_tel>01 42 59 31 71 </agence_tel>
+<agence_email>keyvan@imoss.fr</agence_email>
+<societe_raison_sociale>IMOSS IMMOBILIER</societe_raison_sociale>
+<societe_forme_juri>SAS</societe_forme_juri>
+<societe_siret>893 260 943 00020</societe_siret>
+<societe_capital>1000.00</societe_capital>
+<societe_tva_intra>FR22893260943</societe_tva_intra>
+<societe_adresse>99, rue Ordener</societe_adresse>
+<societe_code_postal>75018</societe_code_postal>
+<societe_ville>PARIS</societe_ville>
+<societe_carte_pro_num>CPI 7501 2021 000 000 249</societe_carte_pro_num>
+<societe_carte_pro_date>20210409</societe_carte_pro_date>
+<societe_carte_pro_pref>CCI de Paris Île-de-France  27 Av. de Friedland, 75008 Paris</societe_carte_pro_pref>
+<societe_directeur_publication>Keyvan MIRI</societe_directeur_publication>
+<societe_caisse_garantie>QBE EUROPE SA/NV  110 Esplanade DU GENERAL DE GAULLE COEUR DEFENSE - TOUR A 92931 PARIS LA DEFENSE CEDEX  0690 537 456  110 000€</societe_caisse_garantie>
+<societe_rcs>893 260 943 Paris B</societe_rcs>
+<nego_nom></nego_nom>
+<nego_tel>01 42 59 31 71 </nego_tel>
+<nego_email>keyvan@imoss.fr</nego_email>
+<nego_cp>75018</nego_cp>
+<nego_ville>PARIS 18EME ARRONDISSEMENT</nego_ville>
+<mandat>30</mandat>
+<type_mandat>simple</type_mandat>
+<operation>vente</operation>
+<viager>0</viager>
+<famille>appartement</famille>
+<type>Appartement</type>
+<idtype>2</idtype>
+<nom_residence></nom_residence>
+<adresse>rue de Crimée </adresse>
+<code_postal>75019</code_postal>
+<ville>PARIS 19EME ARRONDISSEMENT</ville>
+<localisation>PARIS 19EME ARRONDISSEMENT</localisation>
+<numero_voie>119</numero_voie><pays>France</pays>
+<prix>80000</prix>
+<date_dispo></date_dispo>
+<date_echeance_preavis></date_echeance_preavis>
+<taxe_fonciere>0.000000</taxe_fonciere>
+<charges_mensuelles>0</charges_mensuelles>
+<prestige>0</prestige>
+<neuf>0</neuf>
+<surf_hab>8.59</surf_hab>
+<surf_sejour>0</surf_sejour>
+<surf_terrain>0</surf_terrain>
+<piece>1</piece>
+<nb_etage>4</nb_etage>
+<num_etage>4</num_etage>
+<nb_chambre>0</nb_chambre>
+<nb_sdb>0</nb_sdb>
+<nb_salle_deau>0</nb_salle_deau>
+<nb_wc>0</nb_wc>
+<chauffage>électrique</chauffage>
+<nature_chauffage></nature_chauffage>
+<balcon>non</balcon>
+<meuble>0</meuble>
+<ascenseur>0</ascenseur>
+<nb_garage>0</nb_garage>
+<terrasse>0</terrasse>
+<piscine>0</piscine>
+<bail_duree></bail_duree>
+<bail_date_fin></bail_date_fin>
+<annee_constr></annee_constr>
+<nom_occupant></nom_occupant>
+<loyer_mensuel_occupant>0.00</loyer_mensuel_occupant>
+<telephone_occupant></telephone_occupant>
+<defisc>0</defisc>
+<visite_virtuelle></visite_virtuelle>
+<titre_fr></titre_fr>
+<texte_fr>Situé dans la rue Crimée, à moins de 3 minutes du métro Laumière (ligne 5) et du parc des Buttes-Chaumont, venez vite découvrir cette lumineuse studette au 5ème et dernier étage dans un bel immeuble ancien. La studette comporte une pièce de vie, une douche, une kitchenette équipée, elle a été entièrement rénovée en 2019. Idéale pour un premier achat ou un pied à terre. Il ne restera pas longtemps disponible alors contactez-nous rapidement pour fixer une visite !</texte_fr>
+<titre_uk></titre_uk>
+<texte_uk></texte_uk>
+<titre_nl></titre_nl>
+<texte_nl></texte_nl>
+<dpe_non_soumis>0</dpe_non_soumis>
+<dpe_consom_energ>0</dpe_consom_energ>
+<dpe_lettre_consom_energ></dpe_lettre_consom_energ>
+<dpe_emissions_ges>0</dpe_emissions_ges>
+<dpe_lettre_emissions_ges></dpe_lettre_emissions_ges>
+<dpe_etiquettes_vierges>0</dpe_etiquettes_vierges>
+<dpe_date></dpe_date>
+<dpe_depenses_annuelles_estimees_min>0.000000</dpe_depenses_annuelles_estimees_min>
+<dpe_depenses_annuelles_estimees_max>0.000000</dpe_depenses_annuelles_estimees_max>
+<dpe_depenses_annuelles_estimees_annee>0</dpe_depenses_annuelles_estimees_annee>
+<honoraire_frais_dossier>0</honoraire_frais_dossier>
+<honoraire_etat_lieux>0</honoraire_etat_lieux>
+<pourcentage_honoraire_acquereur>0</pourcentage_honoraire_acquereur>
+<copropriete>0</copropriete>
+<copropriete_nb_lots>0</copropriete_nb_lots>
+<copropriete_charges_annuelles>0.00</copropriete_charges_annuelles>
+<copropriete_procedure_syndicat>0</copropriete_procedure_syndicat>
+<honoraire_a_charge_de>1</honoraire_a_charge_de>
+<prix_hors_honoraire>0</prix_hors_honoraire>
+<url_bareme>https://assets.adaptimmo.com/bareme/75059/bareme.pdf</url_bareme>
+<liste_photos>
+</liste_photos>
+</annonce>
+<annonce>
+<reference>75059403</reference>
+<date_creation>20211210</date_creation>
+<date_maj>20211211 11:55:04.000</date_maj>
+<agence>IMOSS IMMOBILIER</agence>
+<agence_tel>01 42 59 31 71 </agence_tel>
+<agence_email>keyvan@imoss.fr</agence_email>
+<societe_raison_sociale>IMOSS IMMOBILIER</societe_raison_sociale>
+<societe_forme_juri>SAS</societe_forme_juri>
+<societe_siret>893 260 943 00020</societe_siret>
+<societe_capital>1000.00</societe_capital>
+<societe_tva_intra>FR22893260943</societe_tva_intra>
+<societe_adresse>99, rue Ordener</societe_adresse>
+<societe_code_postal>75018</societe_code_postal>
+<societe_ville>PARIS</societe_ville>
+<societe_carte_pro_num>CPI 7501 2021 000 000 249</societe_carte_pro_num>
+<societe_carte_pro_date>20210409</societe_carte_pro_date>
+<societe_carte_pro_pref>CCI de Paris Île-de-France  27 Av. de Friedland, 75008 Paris</societe_carte_pro_pref>
+<societe_directeur_publication>Keyvan MIRI</societe_directeur_publication>
+<societe_caisse_garantie>QBE EUROPE SA/NV  110 Esplanade DU GENERAL DE GAULLE COEUR DEFENSE - TOUR A 92931 PARIS LA DEFENSE CEDEX  0690 537 456  110 000€</societe_caisse_garantie>
+<societe_rcs>893 260 943 Paris B</societe_rcs>
+<nego_nom></nego_nom>
+<nego_tel>01 42 59 31 71 </nego_tel>
+<nego_email>keyvan@imoss.fr</nego_email>
+<nego_cp>75018</nego_cp>
+<nego_ville>PARIS 18EME ARRONDISSEMENT</nego_ville>
+<mandat>Délég Hassan</mandat>
+<type_mandat>simple</type_mandat>
+<operation>vente</operation>
+<viager>0</viager>
+<famille>appartement</famille>
+<type>Appartement</type>
+<idtype>2</idtype>
+<nom_residence></nom_residence>
+<adresse>Rue des Epinettes </adresse>
+<code_postal>75017</code_postal>
+<ville>PARIS 17EME ARRONDISSEMENT</ville>
+<localisation>PARIS 17EME ARRONDISSEMENT</localisation>
+<numero_voie>37</numero_voie><pays>France</pays>
+<prix>627000</prix>
+<date_dispo></date_dispo>
+<date_echeance_preavis></date_echeance_preavis>
+<taxe_fonciere>718.000000</taxe_fonciere>
+<charges_mensuelles>161</charges_mensuelles>
+<prestige>0</prestige>
+<neuf>0</neuf>
+<surf_hab>65.39</surf_hab>
+<surf_sejour>25</surf_sejour>
+<surf_terrain>0</surf_terrain>
+<piece>4</piece>
+<nb_etage>0</nb_etage>
+<num_etage>0</num_etage>
+<nb_chambre>2</nb_chambre>
+<nb_sdb>1</nb_sdb>
+<nb_salle_deau>0</nb_salle_deau>
+<nb_wc>0</nb_wc>
+<chauffage>gaz</chauffage>
+<nature_chauffage>individuel</nature_chauffage>
+<balcon>non</balcon>
+<meuble>0</meuble>
+<ascenseur>0</ascenseur>
+<nb_garage>0</nb_garage>
+<terrasse>0</terrasse>
+<piscine>0</piscine>
+<bail_duree></bail_duree>
+<bail_date_fin></bail_date_fin>
+<annee_constr></annee_constr>
+<nom_occupant></nom_occupant>
+<loyer_mensuel_occupant>0.00</loyer_mensuel_occupant>
+<telephone_occupant></telephone_occupant>
+<defisc>0</defisc>
+<visite_virtuelle></visite_virtuelle>
+<titre_fr>Grand T4 de 65m²</titre_fr>
+<texte_fr>Au sein d&apos;un immeuble ancien et bien entretenu, au calme côté cour et jardin. Sans perte d&apos;espace, cet appartement soigné et traversant se compose d&apos;une entrée, un double séjour, une cuisine toute équipée, deux belles chambres, et d&apos;une grande salle de bains. Deux caves complètent ce bien.  Une opportunité à saisir proche des commodités!</texte_fr>
+<titre_uk></titre_uk>
+<texte_uk></texte_uk>
+<titre_nl></titre_nl>
+<texte_nl></texte_nl>
+<dpe_non_soumis>0</dpe_non_soumis>
+<dpe_consom_energ>170</dpe_consom_energ>
+<dpe_lettre_consom_energ>D</dpe_lettre_consom_energ>
+<dpe_emissions_ges>39</dpe_emissions_ges>
+<dpe_lettre_emissions_ges>E</dpe_lettre_emissions_ges>
+<dpe_etiquettes_vierges>0</dpe_etiquettes_vierges>
+<dpe_date>20210108</dpe_date>
+<dpe_depenses_annuelles_estimees_min>0.000000</dpe_depenses_annuelles_estimees_min>
+<dpe_depenses_annuelles_estimees_max>0.000000</dpe_depenses_annuelles_estimees_max>
+<dpe_depenses_annuelles_estimees_annee>0</dpe_depenses_annuelles_estimees_annee>
+<honoraire_frais_dossier>0</honoraire_frais_dossier>
+<honoraire_etat_lieux>0</honoraire_etat_lieux>
+<pourcentage_honoraire_acquereur>3.63</pourcentage_honoraire_acquereur>
+<copropriete>0</copropriete>
+<copropriete_nb_lots>0</copropriete_nb_lots>
+<copropriete_charges_annuelles>0.00</copropriete_charges_annuelles>
+<copropriete_procedure_syndicat>0</copropriete_procedure_syndicat>
+<honoraire_a_charge_de>2</honoraire_a_charge_de>
+<prix_hors_honoraire>605000.00</prix_hors_honoraire>
+<url_bareme>https://assets.adaptimmo.com/bareme/75059/bareme.pdf</url_bareme>
+<liste_photos>
+</liste_photos>
+</annonce>
+<annonce>
+<reference>75059406</reference>
+<date_creation>20211211</date_creation>
+<date_maj>20211211 11:52:49.000</date_maj>
+<agence>IMOSS IMMOBILIER</agence>
+<agence_tel>01 42 59 31 71 </agence_tel>
+<agence_email>keyvan@imoss.fr</agence_email>
+<societe_raison_sociale>IMOSS IMMOBILIER</societe_raison_sociale>
+<societe_forme_juri>SAS</societe_forme_juri>
+<societe_siret>893 260 943 00020</societe_siret>
+<societe_capital>1000.00</societe_capital>
+<societe_tva_intra>FR22893260943</societe_tva_intra>
+<societe_adresse>99, rue Ordener</societe_adresse>
+<societe_code_postal>75018</societe_code_postal>
+<societe_ville>PARIS</societe_ville>
+<societe_carte_pro_num>CPI 7501 2021 000 000 249</societe_carte_pro_num>
+<societe_carte_pro_date>20210409</societe_carte_pro_date>
+<societe_carte_pro_pref>CCI de Paris Île-de-France  27 Av. de Friedland, 75008 Paris</societe_carte_pro_pref>
+<societe_directeur_publication>Keyvan MIRI</societe_directeur_publication>
+<societe_caisse_garantie>QBE EUROPE SA/NV  110 Esplanade DU GENERAL DE GAULLE COEUR DEFENSE - TOUR A 92931 PARIS LA DEFENSE CEDEX  0690 537 456  110 000€</societe_caisse_garantie>
+<societe_rcs>893 260 943 Paris B</societe_rcs>
+<nego_nom></nego_nom>
+<nego_tel>01 42 59 31 71 </nego_tel>
+<nego_email>keyvan@imoss.fr</nego_email>
+<nego_cp>75018</nego_cp>
+<nego_ville>PARIS 18EME ARRONDISSEMENT</nego_ville>
+<mandat>37</mandat>
+<type_mandat>simple</type_mandat>
+<operation>vente</operation>
+<viager>0</viager>
+<famille>appartement</famille>
+<type>Appartement</type>
+<idtype>2</idtype>
+<nom_residence></nom_residence>
+<adresse>Boulevard anatole France </adresse>
+<code_postal>93200</code_postal>
+<ville>SAINT DENIS</ville>
+<localisation>SAINT DENIS</localisation>
+<numero_voie>236</numero_voie><pays>France</pays>
+<prix>299000</prix>
+<date_dispo></date_dispo>
+<date_echeance_preavis></date_echeance_preavis>
+<taxe_fonciere>0.000000</taxe_fonciere>
+<charges_mensuelles>0</charges_mensuelles>
+<prestige>0</prestige>
+<neuf>0</neuf>
+<surf_hab>60</surf_hab>
+<surf_sejour>0</surf_sejour>
+<surf_terrain>0</surf_terrain>
+<piece>3</piece>
+<nb_etage>0</nb_etage>
+<num_etage>0</num_etage>
+<nb_chambre>2</nb_chambre>
+<nb_sdb>0</nb_sdb>
+<nb_salle_deau>0</nb_salle_deau>
+<nb_wc>0</nb_wc>
+<chauffage></chauffage>
+<nature_chauffage></nature_chauffage>
+<balcon>non</balcon>
+<meuble>0</meuble>
+<ascenseur>0</ascenseur>
+<nb_garage>0</nb_garage>
+<terrasse>0</terrasse>
+<piscine>0</piscine>
+<bail_duree></bail_duree>
+<bail_date_fin></bail_date_fin>
+<annee_constr></annee_constr>
+<nom_occupant></nom_occupant>
+<loyer_mensuel_occupant>0.00</loyer_mensuel_occupant>
+<telephone_occupant></telephone_occupant>
+<defisc>0</defisc>
+<visite_virtuelle></visite_virtuelle>
+<titre_fr></titre_fr>
+<texte_fr>.</texte_fr>
+<titre_uk></titre_uk>
+<texte_uk></texte_uk>
+<titre_nl></titre_nl>
+<texte_nl></texte_nl>
+<dpe_non_soumis>0</dpe_non_soumis>
+<dpe_consom_energ>0</dpe_consom_energ>
+<dpe_lettre_consom_energ></dpe_lettre_consom_energ>
+<dpe_emissions_ges>0</dpe_emissions_ges>
+<dpe_lettre_emissions_ges></dpe_lettre_emissions_ges>
+<dpe_etiquettes_vierges>0</dpe_etiquettes_vierges>
+<dpe_date></dpe_date>
+<dpe_depenses_annuelles_estimees_min>0.000000</dpe_depenses_annuelles_estimees_min>
+<dpe_depenses_annuelles_estimees_max>0.000000</dpe_depenses_annuelles_estimees_max>
+<dpe_depenses_annuelles_estimees_annee>0</dpe_depenses_annuelles_estimees_annee>
+<honoraire_frais_dossier>0</honoraire_frais_dossier>
+<honoraire_etat_lieux>0</honoraire_etat_lieux>
+<pourcentage_honoraire_acquereur>0</pourcentage_honoraire_acquereur>
+<copropriete>0</copropriete>
+<copropriete_nb_lots>0</copropriete_nb_lots>
+<copropriete_charges_annuelles>0.00</copropriete_charges_annuelles>
+<copropriete_procedure_syndicat>0</copropriete_procedure_syndicat>
+<honoraire_a_charge_de>1</honoraire_a_charge_de>
+<prix_hors_honoraire>0</prix_hors_honoraire>
+<url_bareme>https://assets.adaptimmo.com/bareme/75059/bareme.pdf</url_bareme>
+<liste_photos>
+</liste_photos>
+</annonce>
+</adapt_xml>
