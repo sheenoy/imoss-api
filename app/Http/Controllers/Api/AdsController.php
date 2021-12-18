@@ -45,8 +45,8 @@ class AdsController extends Controller
 
 
     public function detail(Request $request, $id) {
-
-        return response()->json(['status' => "success", 'message' => "Listing successfully fetched!!", 'data' => []]);
+        $data = Ads::with('photos')->find($id);
+        return response()->json(['status' => "success", 'message' => "Ad details successfully fetched!!", 'data' => $data]);
     }
 
     public function processAdsData($data) {

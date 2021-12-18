@@ -15,6 +15,7 @@ class CreateAdsTable extends Migration
     {
         Schema::create('ads', function (Blueprint $table) {
             $table->id();
+            $table->string("reference")->nullable();
             $table->string("date_creation")->nullable();
             $table->string("date_maj")->nullable();
             $table->string("agence")->nullable();

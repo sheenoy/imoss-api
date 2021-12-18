@@ -15,8 +15,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::group(['prefix' => "v1", 'namespace' => "Api", 'name' => "ads."], function() {
-    Route::match(["get", "post"], 'search', "AdsController@index")->name('list');
     Route::match(["get", "post"], 'save-flux-data', "AdsController@readXmlAndSaveData")->name('save');
+    Route::match(["get", "post"], 'search', "AdsController@index")->name('list');
     Route::match(["get", "post"], 'ads/{id}', "AdsController@detail")->name('detail');
 });
 
