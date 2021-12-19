@@ -18,6 +18,7 @@ Route::group(['prefix' => "v1", 'namespace' => "Api", 'name' => "ads."], functio
     Route::match(["get", "post"], 'save-flux-data', "AdsController@readXmlAndSaveData")->name('save');
     Route::match(["get", "post"], 'search', "AdsController@index")->name('list');
     Route::match(["get", "post"], 'ads/{id}', "AdsController@detail")->name('detail');
+    Route::post('enquiry', "EnquiryController@save")->name('enquiry.save');
 });
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {

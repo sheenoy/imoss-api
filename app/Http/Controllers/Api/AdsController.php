@@ -13,7 +13,6 @@ class AdsController extends Controller
         $xmlObject      = simplexml_load_string($xmlDataString);
         $data           = json_decode(json_encode($xmlObject), true);
         $ads            = $data['annonce'];
-        // dd($ads);
         foreach($ads as $ad) {
             $photos = (isset($ad['liste_photos']['photo'])) ? $ad['liste_photos']['photo'] : [];
             unset($ad['liste_photos']);
