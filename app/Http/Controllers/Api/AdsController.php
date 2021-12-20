@@ -37,8 +37,36 @@ class AdsController extends Controller
     public function index(Request $request) {
         $perpage = ($request->has('per_page')) ? $request->get('per_page') : "5";
         $data = Ads::with('photos');
+        if ($request->has('type')) {
+            $data->where('type', $request->get('type'));
+        }
+        if ($request->has('location')) {
+            $data->where(function($q) use ($request) {
+                $q->where('adresse', 'like', "%".$request->get('location')."%")->orWhere('localisation', 'like', "%".$request->get('location')."%")->orWhere('ville', 'like', "%".$request->get('location')."%");
+            });
+        }
+        if ($request->has('rooms') && !empty($request->get('rooms'))) {
+            $data->where('piece', $request->get('rooms'));
+        }
+        if ($request->has('budget_min') && !empty($request->get('budget_min'))) {
+            $data->where('prix', '>=', $request->get('budget_min'));
+        }
+        if ($request->has('budget_max') && !empty($request->get('budget_max'))) {
+            $data->where('prix', '<=', $request->get('budget_max'));
+        }
+        if ($request->has('reference') && !empty($request->get('reference'))) {
+            $data->where('reference', 'like', "%".$request->get('reference')."%");
+        }
 
-        $data = $data->paginate($perpage);
+        $sort_by = "id";
+        $sorting_order = "DESC";
+        if ($request->has('sort_by') && !empty($request->get('sort_by'))) {
+            $sort_by = $request->get('sort_by');
+        }
+        if ($request->has('order_by') && !empty($request->get('order_by'))) {
+            $sorting_order = $request->get('order_by');
+        }
+        $data = $data->orderBy($sort_by, $sorting_order)->paginate($perpage);
         return response()->json($data);
    }
 
@@ -54,6 +82,7 @@ class AdsController extends Controller
             $val = (is_array($val)) ? "" : $val; 
             $return_data[$key] = $val;
         }
+        $return_data['created_at'] = date('Y-m-d H:i:s');
         return $return_data;
     }
 }
