@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Api;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\{Ads, AdImages};
+use App\Http\Requests\GetAllAdsRequest;
 
 class AdsController extends Controller
 {
@@ -34,13 +35,14 @@ class AdsController extends Controller
 
 
 
-    public function index(Request $request) {
+    public function index(GetAllAdsRequest $request) {
         $perpage = ($request->has('per_page')) ? $request->get('per_page') : "5";
-        $data = Ads::with('photos');
-        if ($request->has('type')) {
+        $ad_type = ($request->get('ad_type') == "rent") ? "louer" : "vente";
+        $data = Ads::with('photos')->where('operation', $ad_type);
+        if ($request->has('type') && !empty($request->get('type'))) {
             $data->where('type', $request->get('type'));
         }
-        if ($request->has('location')) {
+        if ($request->has('location') && !empty($request->get('location'))) {
             $data->where(function($q) use ($request) {
                 $q->where('adresse', 'like', "%".$request->get('location')."%")->orWhere('localisation', 'like', "%".$request->get('location')."%")->orWhere('ville', 'like', "%".$request->get('location')."%");
             });

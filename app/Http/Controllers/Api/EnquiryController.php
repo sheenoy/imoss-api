@@ -21,13 +21,13 @@ class EnquiryController extends Controller
                 ];
         $save_enquiry = Enquiry::insert($data);
         if ($save_enquiry) {
-            try{
+            // try{
                 $thank_you_email = Mail::to($request->get('email'))
                                     ->bcc("shoaib2fly@gmail.com")
                                     ->send(new EnquiryResponseToUser());
-            } catch(\Exception $e) {
+            /*} catch(\Exception $e) {
 
-            }
+            }*/
             return response()->json(['message' => "Form submitted successfully!!"]);
         } else {
             return response()->json(['message' => "Oops! Server unreachable at the moment, please try again later"], 400);
