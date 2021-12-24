@@ -38,7 +38,7 @@ class AdsController extends Controller
     public function index(GetAllAdsRequest $request) {
         $perpage = ($request->has('per_page')) ? $request->get('per_page') : "5";
         $ad_type = ($request->get('ad_type') == "rent") ? "louer" : "vente";
-        $data = Ads::with('photos')->where('operation', $ad_type);
+        $data = Ads::select(["id", "localisation", "texte_fr", "prix", "type", "surf_hab", "piece", "ville", "nb_garage", "nb_chambre", "nb_salle_deau", "nb_sdb", "dpe_consom_energ", "dpe_emissions_ges"])->with('photos')->where('operation', $ad_type);
         if ($request->has('type') && !empty($request->get('type'))) {
             $data->where('type', $request->get('type'));
         }
